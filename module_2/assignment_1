@@ -1,1 +1,23 @@
-
+{
+  "_id": "1",
+  "first_name": "John",
+  "last_name": "Wick",
+  "date_of_birth": "09-02-1964",
+  "user_name": "john.wick",
+  "invoices": [
+    {
+      "_id": "wep1",
+      "date_created": "10-28-2023",
+      "date_shipped": "10-29-2023",
+      "subtotal": 599.00,
+      "line_items": [
+        {
+          "_id": "SW500",
+          "name": "Product Bang",
+          "price": 599.99,
+          "quantity": 1
+        }
+      ]
+    }
+  ]
+}
