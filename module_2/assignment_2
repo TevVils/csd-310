@@ -1,1 +1,22 @@
+// in student
+{
+"student_id":23145,
+"first_name": "John",
+"last_name": "Wick"
+}
 
+// in enrollment
+{
+"term": "Fall",
+"gpa": 3.5,
+"start_date": "10-16-2023",
+"end_date": "12-18-2023"
+}
+
+// in course
+{
+"course_id": "CYBR410-305J",
+"description": "Data/Database Security",
+"Instructor": "Boswell"
+"grade": "A"
+}
